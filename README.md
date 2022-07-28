@@ -2,6 +2,8 @@
 This website is comprised of basic and intermediate HTML elements such as: 
 anchors, forms, tables, headings, inserting images and hard rule lines.
 
+
+<!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
